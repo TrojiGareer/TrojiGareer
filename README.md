@@ -1,5 +1,5 @@
 ### Hi, I'm Ianis 👋
-<img width="30%" align="right" alt="Code Hacking GIF by Pizza Ninjas" src="https://github.com/user-attachments/assets/8c13d6c2-b9f8-4452-881d-e6a74956f47f" />
+<img width="25%" align="right" alt="Code Hacking GIF by Pizza Ninjas" src="https://github.com/user-attachments/assets/8c13d6c2-b9f8-4452-881d-e6a74956f47f" />
 
 Third-year Computer Science & Engineering student at **University Politehnica of Bucharest**, with strong programming skills in **C/C++**, **Java** and **Python**.
  
@@ -8,6 +8,8 @@ I'm passionate about systems programming, machine learning, communication protoc
 ### 📫 Let's connect!
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianis-nicolau-94bb86368)
+
+<br clear="right" />
  
 ---
  
